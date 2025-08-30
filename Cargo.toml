@@ -1,0 +1,26 @@
+[package]
+name = "monarch-wasm"
+version = "1.0.0"
+edition = "2024"
+license = "MIT"
+authors = ["Ali36Saadat"]
+description = "Cuckoo Search-Enabled Task Scheduling and Cache Updating in Vehicular Edge-Fog Computing Article Operations"
+repository = "https://github.com/ali36saadat/monarch-wasm"
+homepage = "https://github.com/ali36saadat/monarch-wasm"
+readme = "README.md"
+keywords = ["wasm", "rust", "nodejs", "cuckoo-search"]
+categories = ["wasm"]
+
+
+[lib]
+crate-type = ["cdylib",'rlib']
+
+[dependencies]
+wasm-bindgen = { version = "0.2", optional = true }
+
+[features]
+default = ["wasm"]
+wasm = ["wasm-bindgen"]
+
+[dev-dependencies]
+approx = "0.5"
