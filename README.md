@@ -1,8 +1,8 @@
 ## MONARCH WASM - MATHEMATICAL OPERATIONS LIBRARY
-![MONARCH WASM - Headder](https://github.com/user-attachments/assets/dc3432ff-975c-4dc1-ab56-8bf341273f15)
+![MONARCH WASM - Headder](https://github.com/user-attachments/assets/c3677d80-fd44-4af7-b713-ccfbc31da0a2)
 
 ## Usage
 **Requirements:** `Rust` 1.72.0 or higher
 
 ## Socials
-![Socials](https://github.com/user-attachments/assets/f647e577-6707-40ea-901e-1142e16a7628)
+![Socials](https://github.com/user-attachments/assets/2ac33485-6488-40c1-9b4b-ae2637a60e4f)
